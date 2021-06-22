@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="License:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/License_jar</output-path>
+    <root id="archive" name="License.jar">
+      <element id="module-output" name="License" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-codec-1.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
