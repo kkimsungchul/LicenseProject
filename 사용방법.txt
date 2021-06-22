@@ -1,72 +1,72 @@
-[ ÇÁ·Î±×·¥ ¼³¸í ]
+[ í”„ë¡œê·¸ëž¨ ì„¤ëª… ]
 
 	# License 
-		½Ã½ºÅÛ Á¤º¸ ÃßÃâ ÇÁ·Î±×·¥
-		´ë»ó½Ã½ºÅÛÀÇ ¾ÆÆÄÄ¡ µð·ºÅä¸® ¾È¿¡¼­ ½ÇÇàÇÏ¸é µÊ
+		ì‹œìŠ¤í…œ ì •ë³´ ì¶”ì¶œ í”„ë¡œê·¸ëž¨
+		ëŒ€ìƒì‹œìŠ¤í…œì˜ ì•„íŒŒì¹˜ ë””ë ‰í† ë¦¬ ì•ˆì—ì„œ ì‹¤í–‰í•˜ë©´ ë¨
 		
-		»ý¼ºÆÄÀÏ : sysinfo.txt
+		ìƒì„±íŒŒì¼ : sysinfo.txt
 
 	# LicenseDecrypt
-		¹ß±ÞÇÑ sysinfo.txt ÆÄÀÏÀ» º¹È£È­ÇÏ¿©, »ç¿ë ±â°£ÀÌ°ú È¸»ç¸í(securus)À» Ãß°¡ ÈÄ license.txt ÆÄÀÏÀ» »ý¼º ÇØÁÖ´Â ÇÁ·Î±×·¥
+		ë°œê¸‰í•œ sysinfo.txt íŒŒì¼ì„ ë³µí˜¸í™”í•˜ì—¬, ì‚¬ìš© ê¸°ê°„ì´ê³¼ íšŒì‚¬ëª…(securus)ì„ ì¶”ê°€ í›„ license.txt íŒŒì¼ì„ ìƒì„± í•´ì£¼ëŠ” í”„ë¡œê·¸ëž¨
 
 
 	# LicenseCheck 
-		¹ß±ÞÇÑ license.txt ÆÄÀÏÀÇ À¯È¿¼ºÀ» °ËÁõÇÏ´Â ÇÁ·Î±×·¥
-		´ë»ó ½Ã½ºÅÛ ¾È¿¡ ³Ö¾î¼­ »ç¿ëÇÏ¸é µÇ´Â ÇÁ·Î±×·¥ÀÌ¸ç, Å×½ºÆ®¿ëµµ·Î ÀÛ¼ºÇÏ¿´À½
+		ë°œê¸‰í•œ license.txt íŒŒì¼ì˜ ìœ íš¨ì„±ì„ ê²€ì¦í•˜ëŠ” í”„ë¡œê·¸ëž¨
+		ëŒ€ìƒ ì‹œìŠ¤í…œ ì•ˆì— ë„£ì–´ì„œ ì‚¬ìš©í•˜ë©´ ë˜ëŠ” í”„ë¡œê·¸ëž¨ì´ë©°, í…ŒìŠ¤íŠ¸ìš©ë„ë¡œ ìž‘ì„±í•˜ì˜€ìŒ
 
 
 
-[ »ç¿ë ¹æ¹ý ]
+[ ì‚¬ìš© ë°©ë²• ]
 
-	# ¶óÀÌ¼¾½º ¹ß±Þ
+	# ë¼ì´ì„¼ìŠ¤ ë°œê¸‰
 
 		
-		"¶óÀÌ¼¾½º¹ß±Þ" µð·ºÅä¸®¿¡ ÀÖ´Â "License.jar" , "Sysinfo.bat" ÆÄÀÏÀ» CIIM°æ·Î("C:\CIIM\securus_license\") ¿¡ ³Ö°í¼­ "Sysinfo.bat" ½ÇÇà
+		"ë¼ì´ì„¼ìŠ¤ë°œê¸‰" ë””ë ‰í† ë¦¬ì— ìžˆëŠ” "License.jar" , "Sysinfo.bat" íŒŒì¼ì„ CIIMê²½ë¡œ("C:\CIIM\securus_license\") ì— ë„£ê³ ì„œ "Sysinfo.bat" ì‹¤í–‰
 
 
-		¾Æ·¡´Â ¼Ò½ºº¯°æ ÈÄ ´Ù½Ã ¹èÆ÷ÇÒ¶§
+		ì•„ëž˜ëŠ” ì†ŒìŠ¤ë³€ê²½ í›„ ë‹¤ì‹œ ë°°í¬í• ë•Œ
 		=====================================================================================================================================================
-		1. License.jar ÆÄÀÏÀ» CIIMÀÌ ¿Ã¶ó°¥ ÅèÄ¹µð·ºÅä¸®¿¡ securus_license ¸¸µç ÈÄ 
-			IM_Sysinfo.bat , License.jar µÎ°³ÀÇ ÆÄÀÏÀ» ¾÷·Îµå
+		1. License.jar íŒŒì¼ì„ CIIMì´ ì˜¬ë¼ê°ˆ í†°ìº£ë””ë ‰í† ë¦¬ì— securus_license ë§Œë“  í›„ 
+			IM_Sysinfo.bat , License.jar ë‘ê°œì˜ íŒŒì¼ì„ ì—…ë¡œë“œ
 
 			ex) C:\CIIM\securus_license\License.jar
 			ex) C:\CIIM\securus_licenseIM_Sysinfo.bat
 
-		2. IM_Sysinfo.bat ÆÄÀÏ ½ÇÇà
+		2. IM_Sysinfo.bat íŒŒì¼ ì‹¤í–‰
 		
-		3. ½ÇÇà ÈÄ »ý¼ºµÈ sysinfo.txt ÆÄÀÏÀ» °¡Á®¿Í¼­ "LicenseDecrypt"ÇÁ·ÎÁ§Æ®ÀÇ ·çÆ® µð·ºÅä¸®¿¡ ³Ö°í "LicenseDecrypt"ÇÁ·ÎÁ§Æ® ½ÇÇà
-			* ½ÇÇà ½Ã ¸¸·áÀÏÀÚ(expiryDate)¸¦ ÁöÁ¤ (yyyyMMdd Çü½Ä)
+		3. ì‹¤í–‰ í›„ ìƒì„±ëœ sysinfo.txt íŒŒì¼ì„ ê°€ì ¸ì™€ì„œ "LicenseDecrypt"í”„ë¡œì íŠ¸ì˜ ë£¨íŠ¸ ë””ë ‰í† ë¦¬ì— ë„£ê³  "LicenseDecrypt"í”„ë¡œì íŠ¸ ì‹¤í–‰
+			* ì‹¤í–‰ ì‹œ ë§Œë£Œì¼ìž(expiryDate)ë¥¼ ì§€ì • (yyyyMMdd í˜•ì‹)
 		
-		4. ½ÇÇà ÈÄ ¹ß±ÞµÈ ¶óÀÌ¼¾½º ÆÄÀÏ(license.txt) À» 1¹øÇ×¸ñ¿¡¼­ »ý¼ºÇÑ µð·ºÅä¸®¿¡ ¾÷·Îµå 
+		4. ì‹¤í–‰ í›„ ë°œê¸‰ëœ ë¼ì´ì„¼ìŠ¤ íŒŒì¼(license.txt) ì„ 1ë²ˆí•­ëª©ì—ì„œ ìƒì„±í•œ ë””ë ‰í† ë¦¬ì— ì—…ë¡œë“œ 
 			C:\CIIM\securus_license\license.txt
 		=====================================================================================================================================================
 
-	# ¶óÀÌ¼¾½º Ã¼Å©
+	# ë¼ì´ì„¼ìŠ¤ ì²´í¬
 
-		¡Ø Áß¿ä!
-			ÅèÄ¹ÀÇ °æ·Î ¶Ç´Â ÅèÄ¹ÀÇ µð·ºÅä¸® ¸íÀÌ º¯°æµÇ¾úÀ» °æ¿ì, ¾Æ·¡ÀÇ 2¹øÇ×¸ñÀÇ ³»¿ëÀ» ²À ¼öÁ¤ÇØ¼­ ÇØ¾ßÇÔ!!
+		â€» ì¤‘ìš”!
+			í†°ìº£ì˜ ê²½ë¡œ ë˜ëŠ” í†°ìº£ì˜ ë””ë ‰í† ë¦¬ ëª…ì´ ë³€ê²½ë˜ì—ˆì„ ê²½ìš°, ì•„ëž˜ì˜ 2ë²ˆí•­ëª©ì˜ ë‚´ìš©ì„ ê¼­ ìˆ˜ì •í•´ì„œ í•´ì•¼í•¨!!
 
-		1. CIIM ÇÁ·ÎÁ§Æ®¿¡ LicenseUtil Å¬·¡½º »ý¼º
-			* »ý¼º³»¿ëÀº ÇØ´ç µð·ºÅä¸®ÀÇ "LicenseUtil.java" ÆÄÀÏ Âü°í
+		1. CIIM í”„ë¡œì íŠ¸ì— LicenseUtil í´ëž˜ìŠ¤ ìƒì„±
+			* ìƒì„±ë‚´ìš©ì€ í•´ë‹¹ ë””ë ‰í† ë¦¬ì˜ "LicenseUtil.java" íŒŒì¼ ì°¸ê³ 
 		
-		2. LicenseUtil Å¬·¡½º¿¡¼­ ¶óÀÌ¼¾½º ÆÄÀÏÀÇ °æ·Î¸¦ º¯°æ
+		2. LicenseUtil í´ëž˜ìŠ¤ì—ì„œ ë¼ì´ì„¼ìŠ¤ íŒŒì¼ì˜ ê²½ë¡œë¥¼ ë³€ê²½
 			File file = new File("C:\\CIIM\\securus_license\\license.txt");
 		
-		3. È­¸é´Ü ÄÁÆ®·Ñ·¯¿¡ ¶óÀÌ¼¾½º°¡ ¸¸·áµÇ¸é º¸¿©ÁÙ ¸Þ¼Òµå »ý¼º
+		3. í™”ë©´ë‹¨ ì»¨íŠ¸ë¡¤ëŸ¬ì— ë¼ì´ì„¼ìŠ¤ê°€ ë§Œë£Œë˜ë©´ ë³´ì—¬ì¤„ ë©”ì†Œë“œ ìƒì„±
 			=====================================================================================================================================================
 				/**
-				 * ¶óÀÌ¼¾½º ¸¸·á ÆäÀÌÁö
+				 * ë¼ì´ì„¼ìŠ¤ ë§Œë£Œ íŽ˜ì´ì§€
 				 *
 				 * @return
 				 */
 				@GetMapping("/license")
 				public String license(){
-					return "¶óÀÌ¼¾½º°¡ ¸¸·áµÇ¾ú½À´Ï´Ù.";
+					return "ë¼ì´ì„¼ìŠ¤ê°€ ë§Œë£Œë˜ì—ˆìŠµë‹ˆë‹¤.";
 				}
 			=====================================================================================================================================================
 
-		4. ÀÎÅÍ¼ÁÅÍ Å¬·¡½º¿¡¼­, ¶óÀÌ¼¾½º¸¦ Ã¼Å©ÇÏµµ·Ï ¼öÁ¤
-				* ¶óÀÌ¼¾½º°¡ ÀÏÄ¡ÇÏÁö ¾ÊÀ¸¸é "¶óÀÌ¼¾½º ¸¸·á" ÆäÀÌÁö·Î ÀÌµ¿, ¾Æ´Ò°æ¿ì Á¤»óÀûÀÎ ½Ã½ºÅÛ ·ÎÁ÷ ½ÇÇà
+		4. ì¸í„°ì…‰í„° í´ëž˜ìŠ¤ì—ì„œ, ë¼ì´ì„¼ìŠ¤ë¥¼ ì²´í¬í•˜ë„ë¡ ìˆ˜ì •
+				* ë¼ì´ì„¼ìŠ¤ê°€ ì¼ì¹˜í•˜ì§€ ì•Šìœ¼ë©´ "ë¼ì´ì„¼ìŠ¤ ë§Œë£Œ" íŽ˜ì´ì§€ë¡œ ì´ë™, ì•„ë‹ê²½ìš° ì •ìƒì ì¸ ì‹œìŠ¤í…œ ë¡œì§ ì‹¤í–‰
 			=====================================================================================================================================================
 				@Override
 				public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
@@ -82,27 +82,27 @@
 
 
 
-[ ¶óÀÌ¼¾½º ºñ±³ ½Ã »ç¿ëÇÏ´Â µ¥ÀÌÅÍ ]
+[ ë¼ì´ì„¼ìŠ¤ ë¹„êµ ì‹œ ì‚¬ìš©í•˜ëŠ” ë°ì´í„° ]
 
 
-	# ´ë»ó½Ã½ºÅÛ¿¡¼­ °¡Á®¿À´Â º¯¼ö
+	# ëŒ€ìƒì‹œìŠ¤í…œì—ì„œ ê°€ì ¸ì˜¤ëŠ” ë³€ìˆ˜
 		=====================================================================================================================================================
 
-			String userHome = System.getProperty("user.home");			//»ç¿ëÀÚ È¨ µð·ºÅä¸®
-			String userName = System.getProperty("user.name");			//»ç¿ëÀÚ¸í
-			String osArch = System.getProperty("os.arch");				//¿î¿µÃ¼Á¦ ¾ÆÅ°ÅØÃ³
-			String osName = System.getProperty("os.name");				//¿î¿µÃ¼Á¦¸í
-			String osVersion = System.getProperty("os.version");		//¿î¿µÃ¼Á¦¹öÀü
+			String userHome = System.getProperty("user.home");			//ì‚¬ìš©ìž í™ˆ ë””ë ‰í† ë¦¬
+			String userName = System.getProperty("user.name");			//ì‚¬ìš©ìžëª…
+			String osArch = System.getProperty("os.arch");				//ìš´ì˜ì²´ì œ ì•„í‚¤í…ì²˜
+			String osName = System.getProperty("os.name");				//ìš´ì˜ì²´ì œëª…
+			String osVersion = System.getProperty("os.version");		//ìš´ì˜ì²´ì œë²„ì „
 
 		=====================================================================================================================================================
 		
 
-	# ÀÔ·ÂÇØÁÖ´Â º¯¼ö
-		* È¸»ç¸íÀÇ °æ¿ì¿¡´Â CIIM ¸Å´ÏÀú¿¡µµ µé¾î°¡ ÀÖÀ½, È¸»ç¸íÀ» º¯°æÇÏ¸é CIIM¿¡¼­µµ º¯°æÇØÁà¾ß ÇÔ
+	# ìž…ë ¥í•´ì£¼ëŠ” ë³€ìˆ˜
+		* íšŒì‚¬ëª…ì˜ ê²½ìš°ì—ëŠ” CIIM ë§¤ë‹ˆì €ì—ë„ ë“¤ì–´ê°€ ìžˆìŒ, íšŒì‚¬ëª…ì„ ë³€ê²½í•˜ë©´ CIIMì—ì„œë„ ë³€ê²½í•´ì¤˜ì•¼ í•¨
 		=====================================================================================================================================================
 
-		String company = "securus";						//È¸»ç¸í
-		String expiryDate = "20220610";					//¶óÀÌ¼¾½º ¸¸·á±â°£
+		String company = "securus";						//íšŒì‚¬ëª…
+		String expiryDate = "20220610";					//ë¼ì´ì„¼ìŠ¤ ë§Œë£Œê¸°ê°„
 
 		=====================================================================================================================================================
 
